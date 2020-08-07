@@ -1,4 +1,4 @@
-# How to run the project
+# How to run the project 🏃‍♂️
 
 To run each part of the project, use:
     For mobile: npm start (Recommended to have the Expo app on the phone)
